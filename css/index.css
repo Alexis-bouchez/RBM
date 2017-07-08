@@ -1,0 +1,80 @@
+body {
+  padding-right: 0px;
+  background-color: #DAE3E0;
+}
+
+.container {
+  background-color: #DAE3E0;
+  width: 100%
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  padding-left: 15px;
+  padding-right: 0;
+}
+
+header {
+  background-image: url(https://i11.servimg.com/u/f11/13/27/80/65/logorb10.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 400px;
+  width:100%;
+}
+
+header h1 {
+  color: #00081C;
+}
+
+
+h2,
+h3, {
+  color: #00081C;
+}
+
+img {
+  width: 150px;
+}
+a,
+a:visited
+ {
+  text-decoration: none;
+  color: #123069;
+}
+
+a:hover,
+a:focus {
+  color: #FFA314;
+}
+
+.copyrights{
+margin-top:25px;
+}
+
+footer.container-fluid.text-center.foot {
+    background: rgb(38, 53, 83);
+    border-top: darkorange;
+    border-style: solid;
+}
+
+.dark-line{
+border-top: 1px solid #525252;
+}
+
+.white-txt{
+color: #FFF;
+}
+
+
+a.link {
+    color: #008acc;
+    border: 1px #008acc solid;
+    padding: 5px;
+    text-decoration: none;
+}
+
+a.link:hover {
+background: #008acc;
+    color: #383838;
+}

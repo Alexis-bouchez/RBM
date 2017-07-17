@@ -68,13 +68,13 @@ color: #FFF;
 
 
 a.link {
-    color: #008acc;
-    border: 1px #008acc solid;
+    color: darkorange;
+    border: 1px darkorange solid;
     padding: 5px;
     text-decoration: none;
 }
 
 a.link:hover {
-background: #008acc;
+background: darkorange;
     color: #383838;
 }

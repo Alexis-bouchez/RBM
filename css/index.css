@@ -78,3 +78,8 @@ a.link:hover {
 background: darkorange;
     color: #383838;
 }
+
+#myCarousel {
+  border-style: solid;
+  border-color: darkorange;
+}
